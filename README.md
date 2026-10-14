@@ -1,9 +1,6 @@
 # usage-quota-mini
 
-A one-row usage bar above the Claude Code prompt. Slim fork of
-[anantraghunath/claude-code-usage-quota-mod](https://github.com/anantraghunath/claude-code-usage-quota-mod):
-same data engine (live plan limits, pace forecast, exact context count, auto compact),
-with the UI cut down to a single line.
+A one-row usage bar above the Claude Code prompt.
 
 | Desktop | Terminal |
 | --- | --- |
@@ -69,4 +66,4 @@ first to write the local API types into `.claude-plugin/types/`.
 
 ## License
 
-MIT. Original work by Anant Raghunath.
+MIT
