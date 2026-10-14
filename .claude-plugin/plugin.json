@@ -1,0 +1,21 @@
+{
+  "name": "usage-quota-mini",
+  "version": "0.1.0",
+  "description": "A one-row usage bar above the Claude Code prompt: 5 hour and weekly limits with reset countdowns, context %, one-click compact and auto compact.",
+  "author": {
+    "name": "Jonathan Demeulemeester",
+    "url": "https://github.com/papamzor"
+  },
+  "license": "MIT",
+  "keywords": [
+    "usage",
+    "quota",
+    "rate limits",
+    "context window",
+    "compact",
+    "status bar"
+  ],
+  "types": "./types/index.d.ts",
+  "homepage": "https://github.com/papamzor/usage-quota-mini",
+  "repository": "https://github.com/papamzor/usage-quota-mini"
+}

@@ -1,0 +1,15 @@
+{
+  "name": "usage-quota-mini",
+  "owner": { "name": "Jonathan Demeulemeester" },
+  "metadata": { "description": "Slim one-row fork of anantraghunath/claude-code-usage-quota-mod" },
+  "plugins": [
+    {
+      "name": "usage-quota-mini",
+      "source": "./",
+      "description": "A one-row usage bar above the Claude Code prompt: 5 hour and weekly limits, context %, compact and auto compact.",
+      "version": "0.1.0",
+      "license": "MIT",
+      "keywords": ["usage", "quota", "rate limits", "context window", "compact", "status bar"]
+    }
+  ]
+}
